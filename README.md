@@ -9,10 +9,16 @@ Welcome to the official community hub for **IVR (Incognito Video Resumer)** trac
 4. Paste and Save!
 
 ## 📤 How to contribute
-If you have trained a new rule, feel free to share it by opening a **New Issue**!
-Format:
-- **Site Name:** (e.g., YouTube)
-- **Serial Code:** (Paste your exported serial here)
+If you have trained a new rule, feel free to share it by opening a **New Issue**! 
+Please copy the template below, fill in the details, and paste it into your issue:
+
+```text
+Site Name: (e.g., YouTube.com)
+
+Serial Code:
+`​`​`text
+(Paste your IVR-RULE-xxxx serial code here)
+`​`​`
 
 ---
 
