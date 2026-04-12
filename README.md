@@ -28,6 +28,6 @@ Serial Code:
 
 ### ⚠️ Disclaimer
 - All rules shared here are contributed by users.
-- IVR Labs does not host or verify the content of the websites these rules are applied to.
+- VT Labs does not host or verify the content of the websites these rules are applied to.
 - Users are responsible for ensuring the rules they import comply with local laws and terms of service.
 - **Privacy First:** These rules contain only CSS selectors and URL patterns. No personal data or history is included.
